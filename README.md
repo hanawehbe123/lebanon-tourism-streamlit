@@ -3,7 +3,7 @@
 An interactive Streamlit page built on the 2023 town-level tourism dataset for Lebanon
 (Impact Open Data, via linked.aub.edu.lb). It is the same dataset used in my Plotly assignment.
 
-**Live app:** https://YOUR-APP-NAME.streamlit.app  <!-- replace after deploying -->
+**Live app:** https://lebanon-tourism-app-xi257e2tgstpxxgg97wftz.streamlit.app/
 
 ## What it shows
 - **Amenity mix** (stacked bar): hotels, restaurants, cafes and guest houses, drilling down
